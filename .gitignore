@@ -1,0 +1,7 @@
+# 项目排除路径
+/springboot/target/
+/vue/dist/
+/vue/dist/js/
+/vue/node_modules/
+/新建文件夹/vue/dist/
+/新建文件夹/vue/node_modules/
